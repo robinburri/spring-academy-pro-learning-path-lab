@@ -1,0 +1,54 @@
+# ----------------------------
+# Build outputs
+# ----------------------------
+/target/
+/out/
+/build/
+
+# ----------------------------
+# IDE settings
+# ----------------------------
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# ----------------------------
+# OS / Editor junk
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Temporary files
+# ----------------------------
+*.tmp
+*.swp
+*.swo
+
+# ----------------------------
+# Dependencies (if not managed by Maven/Gradle)
+# ----------------------------
+/lib/
+
+# ----------------------------
+# Spring Boot specific
+# ----------------------------
+# Local dev config
+application-*.yml
+application-*.properties
+
+# If you want to keep only application.yml (and not env-specific overrides)
+# !application.yml
