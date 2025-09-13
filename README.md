@@ -45,5 +45,5 @@ Through these labs, I’m practicing and deepening my understanding of:
 * [🌐 Spring Academy](https://spring.academy/)
 * [📖 Spring Framework Reference](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 * [🚀 Spring Boot Reference](https://docs.spring.io/spring-boot/docs/current/reference/html/)
-* [🧪 Testing in Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html)
+* [🧪 Testing in Spring](https://docs.spring.io/spring-framework/reference/testing.html)
 
